@@ -41,3 +41,7 @@ Your app will be assessed on the following items:
 
 3-	Workability and flexibility of the app.   [30 marks]
 
+
+###
+Link for Data from World Bank used for GDP database: https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.MKTP.CD&country=#
+
